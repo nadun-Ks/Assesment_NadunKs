@@ -35,7 +35,7 @@ This is a simple web application with Docker support, allowing you to manage tas
 ### Clone the repository:
 - bash
 - Copy code
-- git clone <repository-url>
+- git clone https://github.com/nadun-Ks/Assesment_NadunKs.git
 - cd project
 
 ### Start the application:
