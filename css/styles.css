@@ -1,0 +1,32 @@
+.formcard {
+    border-right: 3px solid #979797;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease-out;
+}
+
+.card{
+    background-color: #efefef;
+    border-radius: 15px;
+}
+
+#responseMessage {
+    align-items: center;
+}
+.alert {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column; 
+    min-height: 100vh; 
+    margin: 0;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff
+}
